@@ -27,6 +27,6 @@ I'm on a learning journey, and I'm excited about mastering the following technol
 
 ## Featured Projects
 
-- [Resume](https://github.com/AbdulHanifi/Abdul-Hanifi/tree/main/resume)
+- [Resume](https://github.com/AbdulHanifi/Abdul-Hanifi/tree/main/resume): a litlle project i did.
 - [Pin Pad](https://github.com/AbdulHanifi/Abdul-Hanifi/tree/main/pin-pad): Digital pin pad / 4 digit passwords.
 
