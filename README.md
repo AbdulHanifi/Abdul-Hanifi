@@ -14,7 +14,7 @@ I'm on a learning journey, and I'm excited about mastering the following technol
 - 🎮 Video Games
 - 🎵 Playing Musical Instruments (Guitar): Enjoying the world of music through playing instruments.
 - 👪 Spending time with Friends & Family
--💻 Honing Coding Skills: Continuously improving my coding abilities and working on exciting projects.
+ -💻 Honing Coding Skills: Continuously improving my coding abilities and working on exciting projects.
 
 ## Technologies & Tools
 
