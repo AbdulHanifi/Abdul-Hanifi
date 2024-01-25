@@ -1,28 +1,20 @@
 # Abdul-Hanifi
 Welcome to my profile! i'm grade 11 student interested in Computer programming.
-# 👔 Currently working on
-
-[Finishing Highschool]
+# 👔About Me
+👋 I'm Abdul Hanifi , a passionate Grade 11 student with a keen interest in web development and technology. Currently, my main focus is on finishing high school while actively learning and exploring various technologies and computer studies.
+I am currently enrolled in Grade 11 at Nora Frances Henderson, where I am not only dedicated to academic excellence but also eager to apply my knowledge in practical projects.
 
 # 🌱 Learning
-
+I'm on a learning journey, and I'm excited about mastering the following technologies:
 - [Technologies/Computer studies]
-- [HTML, CSS, JS]
-
-## Education
-
-- 🎓 Currently in Grade 11 at Nora Frances Henderson
+- [HTML, CSS, JS, ]
 
 ## Hobbies
 
-- 📷 Photography
 - 🎮 Video Games
-- 🎨 Digital Arts / Drawing
+- 🎵 Playing Musical Instruments (Guitar): Enjoying the world of music through playing instruments.
 - 👪 Spending time with Friends & Family
-
-## My GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robbi3-T&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-💻 Honing Coding Skills: Continuously improving my coding abilities and working on exciting projects.
 
 ## Technologies & Tools
 
