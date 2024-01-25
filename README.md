@@ -28,7 +28,7 @@ I'm on a learning journey, and I'm excited about mastering the following technol
 ## Featured Projects
 
 - [About Me Website](https://github.com/Robbi3-T/About-Me-Website): Short about me website.
-- [Pin Pad](https://github.com/Robbi3-T/Pin-Pad): Digital pin pad used for door locks / 4 digit passwords.
+- [Pin Pad](https://github.com/AbdulHanifi/Abdul-Hanifi/tree/main/pin-pad): Digital pin pad used for door locks / 4 digit passwords.
 
 ## Let's Connect
 
