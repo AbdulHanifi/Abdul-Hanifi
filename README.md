@@ -27,12 +27,6 @@ I'm on a learning journey, and I'm excited about mastering the following technol
 
 ## Featured Projects
 
-- [Resume](): Short about me website.
-- [Pin Pad](https://github.com/AbdulHanifi/Abdul-Hanifi/tree/main/pin-pad): Digital pin pad used for door locks / 4 digit passwords.
+- [Resume](https://github.com/AbdulHanifi/Abdul-Hanifi/tree/main/resume)
+- [Pin Pad](https://github.com/AbdulHanifi/Abdul-Hanifi/tree/main/pin-pad): Digital pin pad / 4 digit passwords.
 
-## Let's Connect
-
-Feel free to reach out. Let's connect and collaborate on exciting projects!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/robert-trewolla-buckie-128a05243/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/RTrewolla)
